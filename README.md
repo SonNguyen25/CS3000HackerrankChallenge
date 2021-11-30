@@ -1,5 +1,5 @@
 # CS3000HackerrankChallenge
-CS3000 Hackerrank Challenges
+My own solutions with accepted space and time complexity for CS3000 Hackerrank Challenges at Northeastern
 
 **Stop the Arsonist!**<br />
 https://www.hackerrank.com/contests/cs3000-summer1-2021-programming-assignment-2/challenges/help-boston-fire-department
